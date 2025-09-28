@@ -11,5 +11,4 @@ This is a full power BI dashboard project using the superstore dataset from Kagg
 - Highest Sales Month: September ($81k)
 - Profitable Category: Furniture
 - Top Region by Sales: West
-Files Included:
-- 
+
